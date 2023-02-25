@@ -1,0 +1,25 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "bin": "./index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NizamovArturV/nodejs-weather-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Nizamov Artur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NizamovArturV/nodejs-weather-cli/issues"
+  },
+  "homepage": "https://github.com/NizamovArturV/nodejs-weather-cli#readme",
+  "type": "module"
+}
